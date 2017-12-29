@@ -1,6 +1,5 @@
 package org.main;
 
-import org.spring.boot.son.Yonson;
 
 public class Main {
 	static Yonson u = new Yonson();
