@@ -65,5 +65,6 @@
 	<modules>
 		<module>nima</module>
 		<module>wednesday</module>
+		<module>public</module>
 	</modules>
 </project>

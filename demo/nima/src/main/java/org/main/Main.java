@@ -1,6 +1,5 @@
 package org.main;
 
-
 public class Main {
 	static Yonson u = new Yonson();
 
@@ -9,4 +8,3 @@ public class Main {
 		u.syso();
 	}
 }
-  	
